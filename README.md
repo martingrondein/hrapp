@@ -7,10 +7,10 @@ A free self-hosted HR management system that runs on open-source software allowi
 - HR management system
   - featuring with dark/light themes
 - Staff management
-  - Import/Export staff from/to .csv/xlsx
   - Personal / company information
-  - Documents
-  - Leave management
+  - Import/Export staff from/to .csv/xlsx (Beta)
+  - Documents * (Coming soon)
+  - Leave management * (Coming soon)
 - Department management
 
 ## Technologies
