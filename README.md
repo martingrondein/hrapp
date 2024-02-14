@@ -9,9 +9,16 @@ A free self-hosted HR management system that runs on open-source software allowi
 - Staff management
   - Personal / company information
   - Import/Export staff from/to .csv/xlsx (Beta)
-  - Documents * (Coming soon)
-  - Leave management * (Coming soon)
 - Department management
+
+## Feature Roadmap
+
+- Documents management (upload documents per staff)
+- Leave management (calculate leave, book leave)
+- Staff/Department API (endpoints)
+- Staff / Employer roles
+- Security enhancements
+- New home page
 
 ## Technologies
 
